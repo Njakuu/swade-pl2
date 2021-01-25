@@ -17,12 +17,12 @@ test:
 build:
   stage: build
   script:
-    - zip dnd5e-it-IT.zip -r it-IT -x ".*"
+    - zip swade-it-IT.zip -r it-IT -x ".*"
   artifacts:
-    name: dnd5e-it-IT
+    name: swade-it-IT
     when: on_success
     paths:
-      - dnd5e-it-IT.zip
+      - swade-it-IT.zip
   when: on_success
   only:
     - tags
