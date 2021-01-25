@@ -1,0 +1,9 @@
+{
+    "label": "SWADE Svantaggi",
+    "mapping": {
+        "name":  {
+            "path": "name",
+            "converter": "translateHindrance"
+        }
+    }
+}

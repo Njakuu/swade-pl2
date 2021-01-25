@@ -1,0 +1,9 @@
+{
+	"label": "SWADE Equipaggiamento",
+	"mapping": {
+		"skill":  {
+			"path": "data.actions.skill",
+			"converter": "translateSkill"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+    "label": "Abilità",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [
+        { "id": "Psionics", "name": "Arti Psioniche", "description": "Vedi SWADE p.36" },
+        { "id": "Electronics", "name": "Elettronica", "description": "Vedi SWADE p.37" },
+        { "id": "Thievery", "name": "Arte del Furto", "description": "Vedi SWADE p.35" },
+        { "id": "Faith", "name": "Fede", "description": "Vedi SWADE p.37" },
+        { "id": "Persuasion", "name": "Persuasione", "description": "Vedi SWADE p.41" },
+        { "id": "Language", "name": "Linguaggi", "description": "Vedi SWADE p.40" },
+        { "id": "Hacking", "name": "Hackerare", "description": "Vedi SWADE p.40" },
+        { "id": "Gambling", "name": "Gioco d'azzardo", "description": "Vedi SWADE p.41" },
+        { "id": "Occult", "name": "Occulto", "description": "Vedi SWADE p.41" },
+        { "id": "Athletics", "name": "Atletica", "description": "Vedi SWADE p.35" },
+        { "id": "Notice", "name": "Percezione", "description": "Vedi SWADE p.41" },
+        { "id": "Battle", "name": "Battaglia", "description": "Vedi SWADE p.37" },
+        { "id": "Shooting", "name": "Sparare", "description": "Vedi SWADE p.45" },
+        { "id": "Science", "name": "Scienze", "description": "Vedi SWADE p.45" },
+        { "id": "Stealth", "name": "Furtività", "description": "Vedi SWADE p.38" },
+        { "id": "Academics", "name": "Conoscenze accademiche", "description": "Vedi SWADE p.37" },
+        { "id": "Common Knowledge", "name": "Conoscenze Comuni", "description": "Vedi SWADE p.37" },
+        { "id": "Research", "name": "Ricerca", "description": "Vedi SWADE p.43" },
+        { "id": "Healing", "name": "Guarigione", "description": "Vedi SWADE p.39" },
+        { "id": "Intimidation", "name": "Intimidire", "description": "Vedi SWADE p.40" },
+        { "id": "Riding", "name": "Cavalcare", "description": "Vedi SWADE p.37" },
+        { "id": "Survival", "name": "Sopravvivenza", "description": "Vedi SWADE p.45" },
+        { "id": "Performance", "name": "Esibirsi", "description": "Vedi SWADE p.37" },
+        { "id": "Focus", "name": "Focus", "description": "Vedi SWADE p.37" },
+        { "id": "Piloting", "name": "Pilotare", "description": "Vedi SWADE p.42" },
+        { "id": "Wierd Science", "name": "Scienza folle", "description": "Vedi SWADE p.44" },
+        { "id": "Spellcasting", "name": "Lanciare Incantesimi", "description": "Vedi SWADE p.40" },
+        { "id": "Fighting", "name": "Combattere", "description": "Vedi SWADE p.37" },
+        { "id": "Taunt", "name": "Provocare", "description": "Vedi SWADE p.43" },
+        { "id": "Untrained", "name": "Senza Abilità", "description": "Vedi SWADE p.112" },
+        { "id": "Driving", "name": "Guidare", "description": "Vedi SWADE p.39" },
+        { "id": "Repair", "name": "Riparare", "description": "Vedi SWADE p.44" },
+        { "id": "Boating", "name": "Navigare", "description": "Vedi SWADE p.41" }
+
+    ]
+}
