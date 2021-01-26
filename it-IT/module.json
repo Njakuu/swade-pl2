@@ -2,14 +2,14 @@
   "name": "swade-it",
   "title": "SWADE Italian Translation",
   "description": "Add Italian language to SWADE system for FoundryVTT.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion" : "0.6.3",
   "compatibleCoreVersion":"0.7.9",
 
   "dependencies": [{
     "name": "babele",
     "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-    "version": "1.19"
+    "version": "1.24"
   }],
 
   "author": "dsuppo",
@@ -26,5 +26,5 @@
 
   "url": "https://gitlab.com/dsuppo/swade-it",
   "manifest": "https://gitlab.com/dsuppo/swade-it/raw/master/it-IT/module.json",
-  "download": "https://gitlab.com/dsuppo/swade-it/-/jobs/artifacts/0.0.1/raw/swade-it-IT.zip?job=build"
+  "download": "https://gitlab.com/dsuppo/swade-it/-/jobs/artifacts/0.0.2/raw/swade-it-IT.zip?job=build"
 }
