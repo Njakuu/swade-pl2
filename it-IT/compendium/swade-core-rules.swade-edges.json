@@ -1,0 +1,13 @@
+{
+    "label": "SWADE Vantaggi",
+    "mapping": {
+        "name":  {
+            "path": "name",
+            "converter": "translateName"
+        },
+        "requirements": {
+            "path": "data.requirements",
+            "converter": "translateRequirements"
+        }
+    }
+}
