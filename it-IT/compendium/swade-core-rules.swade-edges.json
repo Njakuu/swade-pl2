@@ -8,6 +8,10 @@
         "requirements": {
             "path": "data.requirements",
             "converter": "translateRequirements"
+        },
+        "cf_name": {
+            "path": "flags.cf.name",
+            "converter": "translateCfName"
         }
     }
 }
