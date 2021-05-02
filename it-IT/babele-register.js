@@ -36,11 +36,15 @@ function parseName(value){
 }
 
 
-function parseRequirements(value){
-	//TBD hard because it tries to parse an element without the corresponding id
-	// Find the element in the original pack
-	// get the name
-	// search the name in the id of the translated pack
+function parseRequirements(value, translations, data){
+	//Parse the translated compendiums to find a match
+	let item = {};
+	item['_id'] = data.name;
+	let pack = game.packs.find(pack => pack.translated && pack.hasTranslation(item));
+	if(pack) {
+		return pack.translate(item, true).data.requirements;
+	}
+	//Otherwise return current value
 	return value;
 }
 
@@ -50,7 +54,7 @@ function parseCfName(value){
 	}
 	else {
 		console.log(value);
-		return value + 'a';
+		return value;
 	}
 }
 
@@ -67,7 +71,7 @@ Hooks.once('init', () => {
 		Babele.get().registerConverters({
 			"translateSkill": (value) => parseSkill(value),
 			"translateName": (value) => parseName(value),
-			"translateRequirements": (value) => parseRequirements(value),
+			"translateRequirements": (value, translations, data) => parseRequirements(value, translations, data),
 			"translateCfName": (value) => parseCfName(value),
 		});
 	}
