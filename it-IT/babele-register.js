@@ -4,6 +4,7 @@ const skillDict = {
 }
 
 const folderDict = {
+	'Hindrances' : 'Svantaggi',
 	'Edges' : 'Vantaggi',
 	'Background Edges' : '01 - Vantaggi di Background',
 	'Combat Edges' : '02 - Vantaggi di Combattimento',
