@@ -219,7 +219,7 @@
   "SWADE.GmBennies": "Benny del Master",
   "SWADE.GmBenniesDesc": "Imposta quanti Benny riceve il Master quando vengono ripristinati",
   "SWADE.EnableBennyNotify": "Notifiche sui Benny",
-  "SWADE.EnableBennyNotifyDesc": "Mosytra in chat quando i Benny vengono distribuiti, ripresi o ripristinati.",
+  "SWADE.EnableBennyNotifyDesc": "Mostra in chat quando i Benny vengono distribuiti, ripresi o ripristinati.",
   "SWADE.VehicleMods": "Mod Veicoli",
   "SWADE.VehicleModsDesc": "I Veicoli usano Slot per le Modifiche",
   "SWADE.VehicleEdges": "Vantaggi del Veicolo",
