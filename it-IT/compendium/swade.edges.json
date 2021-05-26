@@ -181,14 +181,14 @@
 			}
 		},
 		"Combat Acrobat": {
-			"name": "Combattimento acrobatico",
+			"name": "Combattimento Acrobatico",
 			"description": "Vedi SWADE p.60",
 			"requirements": {
 				"value": "Navigato, Acrobata"
 			}
 		},
 		"Combat Reflexes": {
-			"name": "Riflessi in combattimento",
+			"name": "Riflessi in Combattimento",
 			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Navigato"
@@ -244,7 +244,7 @@
 			}
 		},
 		"Dead Shot": {
-			"name": "Colpo mortale",
+			"name": "Colpo Mortale",
 			"description": "Vedi SWADE p.51",
 			"requirements": {
 				"value": "Protagonista, Principiante, Atletica o Sparare d8+"
@@ -258,7 +258,7 @@
 			}
 		},
 		"Double Tap": {
-			"name": "Doppio colpo",
+			"name": "Doppio Colpo",
 			"description": "Vedi SWADE p.52",
 			"requirements": {
 				"value": "Navigato, Sparare d6+"
@@ -335,7 +335,7 @@
 			}
 		},
 		"First Strike": {
-			"name": "Primo colpo",
+			"name": "Primo Colpo",
 			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Principiante, Agilità d8+"
@@ -356,29 +356,29 @@
 			}
 		},
 		"Free Runner": {
-			"name": "Free Runner",
-			"description": "Vedi SWADE p.42",
+			"name": "Parkour",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Principiante, Agilità d8+, Atletica d6+"
 			}
 		},
 		"Frenzy": {
-			"name": "Frenzy",
-			"description": "Vedi SWADE p.42",
+			"name": "Frenesia",
+			"description": "Vedi SWADE p.52",
 			"requirements": {
 				"value": "Navigato, Combattere d8+"
 			}
 		},
 		"Gadgeteer": {
-			"name": "Gadgeteer",
-			"description": "Vedi SWADE p.46",
+			"name": "Inventore",
+			"description": "Vedi SWADE p.57",
 			"requirements": {
-				"value": "Navigato, Background Arcano (Weird Science), Weird Science d6+"
+				"value": "Navigato, Background Arcano (Scienza Folle), Scienza Folle d6+"
 			}
 		},
 		"Giant Killer": {
-			"name": "Giant Killer",
-			"description": "Vedi SWADE p.42",
+			"name": "Ammazzagiganti",
+			"description": "Vedi SWADE p.50",
 			"requirements": {
 				"value": "Veterano"
 			}
@@ -391,38 +391,38 @@
 			}
 		},
 		"Hard To Kill": {
-			"name": "Hard To Kill",
-			"description": "Vedi SWADE p.42",
-			"requirements": {
-				"value": "Principiante, Spirito d8+"
-			}
-		},
-		"Harder To Kill": {
-			"name": "Harder To Kill",
-			"description": "Vedi SWADE p.42",
-			"requirements": {
-				"value": "Veterano, Hard to Kill"
-			}
-		},
-		"Healer": {
-			"name": "Healer",
+			"name": "Duro a Morire",
 			"description": "Vedi SWADE p.52",
 			"requirements": {
 				"value": "Principiante, Spirito d8+"
 			}
 		},
-		"Hold The Line!": {
-			"name": "Hold The Line!",
-			"description": "Vedi SWADE p.45",
+		"Harder To Kill": {
+			"name": "Ancora più Duro a Morire",
+			"description": "Vedi SWADE p.52",
 			"requirements": {
-				"value": "Navigato, Intelligenza d8+, Command"
+				"value": "Veterano, Duro a Morire"
+			}
+		},
+		"Healer": {
+			"name": "Guaritore",
+			"description": "Vedi SWADE p.65",
+			"requirements": {
+				"value": "Principiante, Spirito d8+"
+			}
+		},
+		"Hold The Line!": {
+			"name": "Mantenete la Posizione!",
+			"description": "Vedi SWADE p.56",
+			"requirements": {
+				"value": "Navigato, Intelligenza d8+, Comando"
 			}
 		},
 		"Humiliate": {
-			"name": "Humiliate",
-			"description": "Vedi SWADE p.50",
+			"name": "Umiliare",
+			"description": "Vedi SWADE p.64",
 			"requirements": {
-				"value": "Principiante, Taunt d8+"
+				"value": "Principiante, Provocare d8+"
 			}
 		},
 		"Improved Arcane Resistance": {
@@ -440,17 +440,17 @@
 			}
 		},
 		"Improved Counterattack": {
-			"name": "Improved Counterattack",
-			"description": "Vedi SWADE p.41",
+			"name": "Contrattacco Migliorato",
+			"description": "Vedi SWADE p.51",
 			"requirements": {
-				"value": "Veterano, Counterattack"
+				"value": "Veterano, Contrattacco"
 			}
 		},
 		"Improved Dodge": {
-			"name": "Improved Dodge",
-			"description": "Vedi SWADE p.41",
+			"name": "Schivare Migliorato",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
-				"value": "Navigato, Dodge"
+				"value": "Navigato, Schivare"
 			}
 		},
 		"Improved Extraction": {
@@ -461,17 +461,17 @@
 			}
 		},
 		"Improved First Strike": {
-			"name": "Improved First Strike",
-			"description": "Vedi SWADE p.42",
+			"name": "Primo Colpo Migliorato",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
-				"value": "Heroic, First Strike"
+				"value": "Eroico, Pimo colpo"
 			}
 		},
 		"Improved Frenzy": {
-			"name": "Improved Frenzy",
-			"description": "Vedi SWADE p.42",
+			"name": "Frenesia Migliorata",
+			"description": "Vedi SWADE p.52",
 			"requirements": {
-				"value": "Veterano, Frenzy"
+				"value": "Veterano, Frenesia"
 			}
 		},
 		"Improved Level Headed": {
@@ -482,91 +482,91 @@
 			}
 		},
 		"Improved Nerves of Steel": {
-			"name": "Tempra d'acciao Migliorato",
-			"description": "Vedi SWADE p.54",
+			"name": "Tempra d'Acciaio Migliorato",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
-				"value": "Principiante, Tempra d'acciao"
+				"value": "Principiante, Tempra d'Acciaio"
 			}
 		},
 		"Improved Rapid Fire": {
-			"name": "Improved Rapid Fire",
-			"description": "Vedi SWADE p.43",
+			"name": "Fuoco Rapido Migliorato",
+			"description": "Vedi SWADE p.53",
 			"requirements": {
-				"value": "Veterano, Rapid Fire"
+				"value": "Veterano, Fuoco Rapido"
 			}
 		},
 		"Improved Rapid Recharge": {
-			"name": "Improved Rapid Recharge",
-			"description": "Vedi SWADE p.47",
+			"name": "Ricarica Rapida Migliorata",
+			"description": "Vedi SWADE p.59",
 			"requirements": {
-				"value": "Veterano, Rapid Recharge"
+				"value": "Veterano, Ricarica Rapida"
 			}
 		},
 		"Improved Sweep": {
-			"name": "Improved Sweep",
-			"description": "Vedi SWADE p.44",
+			"name": "Spazzata Migliorata",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
-				"value": "Veterano, Sweep"
+				"value": "Veterano, Spazzata"
 			}
 		},
 		"Improved Trademark Weapon": {
-			"name": "Arma personale migliorata",
+			"name": "Arma Personale Migliorata",
 			"description": "Vedi SWADE p.51",
 			"requirements": {
-				"value": "Navigato, Arma personale"
+				"value": "Navigato, Arma Personale"
 			}
 		},
 		"Improvisational Fighter": {
-			"name": "Improvisational Fighter",
-			"description": "Vedi SWADE p.42",
+			"name": "Combattente Improvvisatore",
+			"description": "Vedi SWADE p.51",
 			"requirements": {
 				"value": "Navigato, Intelligenza d6+"
 			}
 		},
 		"Inspire": {
 			"name": "Ispirare",
-			"description": "Vedi SWADE p.45",
+			"description": "Vedi SWADE p.56",
 			"requirements": {
-				"value": "Navigato, Command"
+				"value": "Navigato, Comando"
 			}
 		},
 		"Investigator": {
-			"name": "Investigator",
-			"description": "Vedi SWADE p.48",
+			"name": "Investigatore",
+			"description": "Vedi SWADE p.60",
 			"requirements": {
-				"value": "Principiante, Intelligenza d8+, Research d8+"
+				"value": "Principiante, Intelligenza d8+, Ricerca d8+"
 			}
 		},
 		"Iron Jaw": {
-			"name": "Iron Jaw",
-			"description": "Vedi SWADE p.42",
+			"name": "Incassatore",
+			"description": "Vedi SWADE p.53",
 			"requirements": {
 				"value": "Principiante, Vigore d8+"
 			}
 		},
 		"Iron Will": {
-			"name": "Iron Will",
-			"description": "Vedi SWADE p.51",
+			"name": "Volontà di Ferro Migliorata",
+			"description": "Vedi SWADE p.64",
 			"requirements": {
-				"value": "Navigato, Brave, Strong Willed"
+				"value": "Navigato, Coraggioso, Volontà di Ferro"
 			}
 		},
 		"Jack-of-all-Trades": {
-			"name": "Jack-of-all-Trades",
-			"description": "Vedi SWADE p.48",
+			"name": "Tuttofare",
+			"description": "Vedi SWADE p.62",
 			"requirements": {
 				"value": "Principiante, Intelligenza d10+"
 			}
 		},
 		"Killer Instinct": {
 			"name": "Istinto Omicida",
-			"description": "Vedi SWADE p.43",
+			"description": "Vedi SWADE p.53",
 			"requirements": {
 				"value": "Navigato"
 			}
 		},
 		"Level Headed": {
-			"name": "Nervi saldi",
+			"name": "Nervi Saldi",
 			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Navigato, Intelligenza d8+"
@@ -580,8 +580,8 @@
 			}
 		},
 		"Liquid Courage": {
-			"name": "Liquid Courage",
-			"description": "Vedi SWADE p.52",
+			"name": "Coraggio in Bottiglia",
+			"description": "Vedi SWADE p.65",
 			"requirements": {
 				"value": "Principiante, Vigore d8+"
 			}
@@ -594,59 +594,59 @@
 			}
 		},
 		"Marksman": {
-			"name": "Marksman",
-			"description": "Vedi SWADE p.43",
+			"name": "Tiratore Scelto",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
 				"value": "Navigato, Atletica d8+ o Sparare d8+"
 			}
 		},
 		"Martial Artist": {
-			"name": "Martial Artist",
-			"description": "Vedi SWADE p.43",
+			"name": "Studente di Arti Marziali",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
 				"value": "Principiante, Combattere d6+"
 			}
 		},
 		"Martial Warrior": {
-			"name": "Martial Warrior",
-			"description": "Vedi SWADE p.43",
+			"name": "Esperto di Arti Marziali",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
-				"value": "Navigato, Martial Artist"
+				"value": "Navigato, Studente di Arti Marziali"
 			}
 		},
 		"Master": {
-			"name": "Master",
-			"description": "Vedi SWADE p.53",
+			"name": "Maestro",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
-				"value": "Protagonista, Leggendario, Expert in affected Trait"
+				"value": "Protagonista, Leggendario, Esperto nel Tratto specifico"
 			}
 		},
 		"Master of Arms": {
-			"name": "Master of Arms",
-			"description": "Vedi SWADE p.53",
+			"name": "Gran Maestro d'Armi",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
-				"value": "Leggendario, Weapon Master"
+				"value": "Leggendario, Maestro d'Armi"
 			}
 		},
 		"Master Tactician": {
-			"name": "Master Tactician",
-			"description": "Vedi SWADE p.45",
+			"name": "Maestro di Tattica",
+			"description": "Vedi SWADE p.57",
 			"requirements": {
-				"value": "Veterano, Tactician"
+				"value": "Veterano, Tattico"
 			}
 		},
 		"McGyver": {
 			"name": "McGyver",
-			"description": "Vedi SWADE p.49",
+			"description": "Vedi SWADE p.61",
 			"requirements": {
-				"value": "Principiante, Intelligenza d6+, Notice d8+, Repair d6+"
+				"value": "Principiante, Intelligenza d6+, Percezione d8+, Riparare d6+"
 			}
 		},
 		"Menacing": {
-			"name": "Menacing",
-			"description": "Vedi SWADE p.50",
+			"name": "Minaccioso",
+			"description": "Vedi SWADE p.63",
 			"requirements": {
-				"value": "Principiante, any one of Bloodthirsty, Mean, Ruthless, or Ugly"
+				"value": "Principiante, uno Svantaggio tra Brutto, Implacabile, Meschino o Sanguinario"
 			}
 		},
 		"Mentalist": {
@@ -657,73 +657,73 @@
 			}
 		},
 		"Mighty Blow": {
-			"name": "Mighty Blow",
-			"description": "Vedi SWADE p.43",
+			"name": "Colpo Poderoso",
+			"description": "Vedi SWADE p.51",
 			"requirements": {
 				"value": "Protagonista, Principiante, Combattere d8+"
 			}
 		},
 		"Mr. Fix It": {
-			"name": "Mr. Fix It",
-			"description": "Vedi SWADE p.49",
+			"name": "Riparatutto",
+			"description": "Vedi SWADE p.61",
 			"requirements": {
-				"value": "Principiante, Repair d8+"
+				"value": "Principiante, Riparare d8+"
 			}
 		},
 		"Natural Leader": {
-			"name": "Natural Leader",
-			"description": "Vedi SWADE p.45",
+			"name": "Leader Nato",
+			"description": "Vedi SWADE p.56",
 			"requirements": {
-				"value": "Navigato, Spirito d8+, Command"
+				"value": "Navigato, Spirito d8+, Comando"
 			}
 		},
 		"Nerves of Steel": {
-			"name": "Tempra d'acciao",
-			"description": "Vedi SWADE p.54",
+			"name": "Tempra d'Acciao",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
 				"value": "Principiante, Vigore d8+"
 			}
 		},
 		"New Powers": {
-			"name": "New Powers",
-			"description": "Vedi SWADE p.47",
+			"name": "Nuovi Poteri",
+			"description": "Vedi SWADE p.58",
 			"requirements": {
 				"value": "Principiante, Background Arcano (Qualsiasi)"
 			}
 		},
 		"No Mercy": {
-			"name": "No Mercy",
-			"description": "Vedi SWADE p.43",
+			"name": "Senza Pietà",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Navigato"
 			}
 		},
 		"Power Points": {
-			"name": "Power Points",
-			"description": "Vedi SWADE p.47",
+			"name": "Punti Potere",
+			"description": "Vedi SWADE p.59",
 			"requirements": {
 				"value": "Principiante, Background Arcano (Qualsiasi)"
 			}
 		},
 		"Power Surge": {
-			"name": "Power Surge",
-			"description": "Vedi SWADE p.47",
+			"name": "Picco di Energia",
+			"description": "Vedi SWADE p.59",
 			"requirements": {
-				"value": "Protagonista, Principiante, Background Arcano (Qualsiasi), arcane skill d8+"
+				"value": "Protagonista, Principiante, Background Arcano (Qualsiasi), abilità arcana d8+"
 			}
 		},
 		"Professional": {
-			"name": "Professional",
-			"description": "Vedi SWADE p.53",
+			"name": "Professionista",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
-				"value": "Leggendario, maximum die type possible in affected Trait"
+				"value": "Leggendario, dado massimo nel Tratto specifico"
 			}
 		},
 		"Provoke": {
 			"name": "Istigare",
-			"description": "Vedi SWADE p.50",
+			"description": "Vedi SWADE p.63",
 			"requirements": {
-				"value": "Principiante, Taunt d6+"
+				"value": "Principiante, Provocare d6+"
 			}
 		},
 		"Quick": {
@@ -734,143 +734,143 @@
 			}
 		},
 		"Rabble-Rouser": {
-			"name": "Rabble-Rouser",
-			"description": "Vedi SWADE p.50",
+			"name": "Agitatore",
+			"description": "Vedi SWADE p.62",
 			"requirements": {
 				"value": "Navigato, Spirito d8+"
 			}
 		},
 		"Rapid Fire": {
-			"name": "Rapid Fire",
-			"description": "Vedi SWADE p.43",
+			"name": "Fuoco Rapido",
+			"description": "Vedi SWADE p.53",
 			"requirements": {
 				"value": "Navigato, Sparare d6+"
 			}
 		},
 		"Rapid Recharge": {
-			"name": "Rapid Recharge",
-			"description": "Vedi SWADE p.47",
+			"name": "Ricarica Rapida",
+			"description": "Vedi SWADE p.59",
 			"requirements": {
 				"value": "Navigato, Spirito d6+, Background Arcano (Qualsiasi)"
 			}
 		},
 		"Reliable": {
-			"name": "Reliable",
-			"description": "Vedi SWADE p.51",
+			"name": "Affidabile",
+			"description": "Vedi SWADE p.62",
 			"requirements": {
 				"value": "Principiante, Spirito d8+"
 			}
 		},
 		"Retort": {
-			"name": "Retort",
-			"description": "Vedi SWADE p.51",
+			"name": "Controbattere",
+			"description": "Vedi SWADE p.63",
 			"requirements": {
-				"value": "Principiante, Taunt d6+"
+				"value": "Principiante, Provocare d6+"
 			}
 		},
 		"Rich": {
 			"name": "Ricco",
-			"description": "Vedi SWADE p.52",
+			"description": "Vedi SWADE p.49",
 			"requirements": {
 				"value": "Principiante"
 			}
 		},
 		"Rock and Roll!": {
 			"name": "Rock and Roll!",
-			"description": "Vedi SWADE p.44",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Navigato, Sparare d8+"
 			}
 		},
 		"Scavenger": {
-			"name": "Scavenger",
-			"description": "Vedi SWADE p.52",
+			"name": "Riciclatore",
+			"description": "Vedi SWADE p.65",
 			"requirements": {
-				"value": "Principiante, Luck"
+				"value": "Principiante, Fortuna"
 			}
 		},
 		"Scholar": {
-			"name": "Scholar",
-			"description": "Vedi SWADE p.49",
+			"name": "Studioso",
+			"description": "Vedi SWADE p.61",
 			"requirements": {
-				"value": "Principiante, Research d8+"
+				"value": "Principiante, Ricerca d8+"
 			}
 		},
 		"Sidekick": {
-			"name": "Sidekick",
-			"description": "Vedi SWADE p.53",
+			"name": "Spalla",
+			"description": "Vedi SWADE p.67",
 			"requirements": {
 				"value": "Protagonista, Leggendario"
 			}
 		},
 		"Soldier": {
-			"name": "Soldier",
-			"description": "Vedi SWADE p.49",
+			"name": "Soldato",
+			"description": "Vedi SWADE p.61",
 			"requirements": {
 				"value": "Principiante, Forza d6+, Vigore d6+"
 			}
 		},
 		"Soul Drain": {
-			"name": "Soul Drain",
-			"description": "Vedi SWADE p.47",
+			"name": "Prosciugamento dell'Anima",
+			"description": "Vedi SWADE p.59",
 			"requirements": {
-				"value": "Navigato, Background Arcano (Qualsiasi), arcane skill d10+"
+				"value": "Navigato, Background Arcano (Qualsiasi), abilità arcana d10+"
 			}
 		},
 		"Steady Hands": {
-			"name": "Steady Hands",
-			"description": "Vedi SWADE p.44",
+			"name": "Mano Ferma",
+			"description": "Vedi SWADE p.54",
 			"requirements": {
 				"value": "Principiante, Agilità d8+"
 			}
 		},
 		"Streetwise": {
-			"name": "Streetwise",
-			"description": "Vedi SWADE p.51",
+			"name": "Bassifondi",
+			"description": "Vedi SWADE p.62",
 			"requirements": {
 				"value": "Principiante, Intelligenza d6+"
 			}
 		},
 		"Strong Willed": {
-			"name": "Strong Willed",
-			"description": "Vedi SWADE p.51",
+			"name": "Volontà di Ferro",
+			"description": "Vedi SWADE p.64",
 			"requirements": {
 				"value": "Principiante, Spirito d8+"
 			}
 		},
 		"Sweep": {
-			"name": "Sweep",
-			"description": "Vedi SWADE p.44",
+			"name": "Spazzata",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
 				"value": "Principiante, Forza d8+, Combattere d8+"
 			}
 		},
 		"Tactician": {
-			"name": "Tactician",
-			"description": "Vedi SWADE p.45",
+			"name": "Tattico",
+			"description": "Vedi SWADE p.56",
 			"requirements": {
-				"value": "Navigato, Intelligenza d8+ Command, Battle d6+"
+				"value": "Navigato, Intelligenza d8+, Comando, Battaglia d6+"
 			}
 		},
 		"Thief": {
-			"name": "Thief",
-			"description": "Vedi SWADE p.49",
+			"name": "Ladro",
+			"description": "Vedi SWADE p.61",
 			"requirements": {
-				"value": "Principiante, Agilità d8+, Stealth d6+, Thievery d6+"
+				"value": "Principiante, Agilità d8+, Arte del Furto d6+, Furtività d6+"
 			}
 		},
 		"Tough As Nails": {
-			"name": "Tough As Nails",
-			"description": "Vedi SWADE p.53",
+			"name": "Duro come il Ferro",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
 				"value": "Leggendario, Vigore d8+"
 			}
 		},
 		"Tougher Than Nails": {
-			"name": "Tougher Than Nails",
-			"description": "Vedi SWADE p.53",
+			"name": "Più Duro del Ferro",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
-				"value": "Leggendario, Tough as Nails, Vigore d12+"
+				"value": "Leggendario, Duro Come il Ferro, Vigore d12+"
 			}
 		},
 		"Trademark Weapon": {
@@ -881,15 +881,15 @@
 			}
 		},
 		"Two-Fisted": {
-			"name": "Two-Fisted",
-			"description": "Vedi SWADE p.44",
+			"name": "Combattente a Due Mani",
+			"description": "Vedi SWADE p.51",
 			"requirements": {
 				"value": "Principiante, Agilità d8+"
 			}
 		},
 		"Two-Gun Kid": {
-			"name": "Two-Gun Kid",
-			"description": "Vedi SWADE p.44",
+			"name": "Un Ferro per Mano",
+			"description": "Vedi SWADE p.55",
 			"requirements": {
 				"value": "Principiante, Agilità d8+"
 			}
@@ -902,36 +902,36 @@
 			}
 		},
 		"Weapon Master": {
-			"name": "Weapon Master",
-			"description": "Vedi SWADE p.53",
+			"name": "Maestro d'Armi",
+			"description": "Vedi SWADE p.66",
 			"requirements": {
 				"value": "Leggendario, Combattere d12+"
 			}
 		},
 		"Wizard": {
-			"name": "Wizard",
-			"description": "Vedi SWADE p.47",
+			"name": "Mago",
+			"description": "Vedi SWADE p.58",
 			"requirements": {
-				"value": "Navigato, Background Arcano (Magic), Spellcasting d6+"
+				"value": "Navigato, Background Arcano (Magia), Lanciare Incantesimi d6+"
 			}
 		},
 		"Woodsman": {
-			"name": "Woodsman",
-			"description": "Vedi SWADE p.50",
+			"name": "Uomo dei Boschi",
+			"description": "Vedi SWADE p.62",
 			"requirements": {
-				"value": "Principiante, Spirito d6+, Survival d8+"
+				"value": "Principiante, Spirito d6+, Sopravvivenza d8+"
 			}
 		},
 		"Work The Crowd": {
-			"name": "Work The Crowd",
-			"description": "Vedi SWADE p.51",
+			"name": "Coinvolgere Migliorato",
+			"description": "Vedi SWADE p.63",
 			"requirements": {
-				"value": "Navigato, Work the Room"
+				"value": "Navigato, Coinvolgere"
 			}
 		},
 		"Work The Room": {
-			"name": "Work The Room",
-			"description": "Vedi SWADE p.51",
+			"name": "Coinvolgere",
+			"description": "Vedi SWADE p.63",
 			"requirements": {
 				"value": "Principiante, Spirito d8+"
 			}
