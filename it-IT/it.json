@@ -17,7 +17,7 @@
   "ITEM.TypeHindrance": "Svantaggio",
   "ITEM.TypeSkill": "Abilità",
   "ITEM.TypePower": "Potere",
-  "ITEM.TypeAbility": "Abilità",
+  "ITEM.TypeAbility": "Abilità Speciali",
   "SWADE.Name": "Nome",
   "SWADE.Tough": "Robustezza",
   "SWADE.Race": "Razza",
@@ -330,5 +330,13 @@
   "SWADE.DmgRolls": "Tira i Danni",
   "SWADE.SubtractPPDesc": "Sottrai il costo in Punti Potere da quelli disponibili",
   "SWADE.AddPPDesc": "Aggiungi il costo in Punti Potere a quelli disponibili",
-  "SWADE.RightClickZoom": "Tasto destro per Zoomare"
+  "SWADE.RightClickZoom": "Tasto destro per Zoomare",
+  "SWADE.Hold": "Pausa",
+  "SWADE.ActNow": "Agisci adesso",
+  "SWADE.ActAfterCurrentCombatant": "Agisci dopo il Personaggio corrente",
+  "SWADE.LoseTurn": "Attiva/Disattiva Perdi il Turno",
+  "SWADE.SysMigrationWarning": "Your SWADE system data is from too old a Foundry version and cannot be reliably migrated to the latest version. The process will be attempted, but errors may occur.",
+  "SWADE.SomethingWrongWithCardComp": "Qualcosa è andato storto con il compendio del Mazzo, ritorno al Mazzo di Default",
+  "SWADE.DeckShuffled": "Il Mazzo è stato mischiato",
+  "SWADE.BasePace": "Passo Base"
 }
