@@ -1,0 +1,9 @@
+{
+    "label": "SWADE Abilità Speciali",
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": {
+        "Infravision": {"name": "Infravisione"}
+    }
+}
