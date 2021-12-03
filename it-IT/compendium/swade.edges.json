@@ -26,6 +26,13 @@
 				"value": "Principiante"
 			}
 		},
+		"Alertness (sensors).": {
+			"name": "Allerta (sensori).",
+			"description": "<p>Vedi SWADE p.46</p>",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
 		"Ambidextrous": {
 			"name": "Ambidestro",
 			"description": "Vedi SWADE p.37",
@@ -36,6 +43,41 @@
 		"Arcane Background": {
 			"name": "Background Arcano",
 			"description": "Vedi SWADE p.37",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
+		"Arcane Background (Gifted)": {
+			"name": "Background Arcano (Dono)",
+			"description": "<p>Vedi SWADE p.188</p>",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
+		"Arcane Background (Magic)": {
+			"name": "Background Arcano (Magia)",
+			"description": "<p>Vedi SWADE p.188</p>",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
+		"Arcane Background (Miracles)": {
+			"name": "Background Arcano (Miracoli)",
+			"description": "<p>Vedi SWADE p.188</p>",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
+		"Arcane Background (Psionics)": {
+			"name": "Background Arcano (Arti Psioniche)",
+			"description": "<p>Vedi SWADE p.188</p>",
+			"requirements": {
+				"value": "Principiante"
+			}
+		},
+		"Arcane Background (Weird Science)": {
+			"name": "Background Arcano (Scienza Folle)",
+			"description": "<p>Vedi SWADE p.188</p>",
 			"requirements": {
 				"value": "Principiante"
 			}
@@ -61,8 +103,8 @@
 				"value": "Navigato, Background Arcano (Qualsiasi)"
 			}
 		},
-		"Assasin": {
-			"name": "Assasino",
+		"Assassin": {
+			"name": "Assassino",
 			"description": "Vedi SWADE p.60",
 			"requirements": {
 				"value": "Principiante, Agilità d8+, Combattere d6+, Furtività d8+"

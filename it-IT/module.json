@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://gitlab.com/dsuppo/swade-it",
   "flags": {},
-  "version": "1.0.11",
+  "version": "1.0.12",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -35,7 +35,7 @@
   ],
   "socket": false,
   "manifest": "https://gitlab.com/dsuppo/swade-it/raw/master/it-IT/module.json",
-  "download": "https://gitlab.com/dsuppo/swade-it/-/jobs/artifacts/1.0.11/raw/swade-it-IT.zip?job=build",
+  "download": "https://gitlab.com/dsuppo/swade-it/-/jobs/artifacts/1.0.12/raw/swade-it-IT.zip?job=build",
   "protected": false,
   "coreTranslation": false,
   "library": false
