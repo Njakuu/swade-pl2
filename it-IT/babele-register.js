@@ -19,6 +19,8 @@ const folderDict = {
 	'Social Edges' : '06 - Vantaggi Sociali',
 	'Weird Edges' : '07 - Vantaggi Folli',
 	'Legendary Edges' : '08 - Vantaggi Leggendari',
+	'Bestiary' : 'Bestiario',
+	'Vehicles' : 'Veicoli',
 }
 
 const actionDict = {
