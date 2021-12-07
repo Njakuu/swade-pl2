@@ -132,21 +132,15 @@ Hooks.once('init', () => {
 });
 
 Hooks.on('renderSwadeVehicleSheet', (app, html, data) => {
-	console.log('Suppo is here');
-	opSkill = app.element.find("[name='data.driver.skill']")[0];
+	const opSkill = app.element.find("[name='data.driver.skill']")[0];
 	if (opSkill.length > 0) {
 
 		for (let i = 0; i < opSkill.length; i++) {
-			console.log(data.data.data.driver.skill);
 			opSkill[i].text = parseSkill(opSkill[i].text);
 			opSkill[i].value = parseSkill(opSkill[i].value);
-			opSkill[i].selected = false;
-			if(data.data.data.driver.skill === opSkill[i].value) {
-				opSkill[i].selected = true;
-			}
-		}
 
-		console.log(app.element.find("[name='data.driver.skill']")[0].options);
+			opSkill[i].selected = data.data.data.driver.skill === opSkill[i].value;
+		}
 	}
 
 
