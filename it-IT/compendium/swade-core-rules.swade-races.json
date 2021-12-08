@@ -1,7 +1,11 @@
 {
     "label": "SWADE Razze",
     "mapping": {
-        "description": "data.description"
+        "description": "data.description",
+        "embeddedAbilities": {
+            "path": "flags.swade.embeddedAbilities",
+            "converter": "translateEmbeddedAbilities"
+        }
     },
     "entries": {
         "Android": {

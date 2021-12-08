@@ -94,6 +94,17 @@ function parseRequirements(value, translations, data, tc){
 	return value;
 }
 
+function parseEmbeddedAbilities(value, translations, data, tc) {
+	value.forEach( (item, k) => {
+		let pack = game.babele.packs.find(pack => pack.translated && pack.translations[item[1].name]);
+		if(pack && pack !== tc) {
+			value[k][1].name = pack.translateField("name", item[1]);
+		}
+	});
+	return value;
+}
+
+
 function parseCfName(value){
 	if(folderDict[value] !== null) {
 		return folderDict[value];
@@ -122,6 +133,9 @@ Hooks.once('init', () => {
 			"translateRequirements": (value, translations, data, tc) => {
 				return parseRequirements(value, translations, data, tc)
 			},
+			"translateEmbeddedAbilities": (value, translations, data, tc) => {
+				return parseEmbeddedAbilities(value, translations, data, tc)
+			},
 			"translateCfName": (value) => {
 				return parseCfName(value)
 			},
@@ -138,8 +152,10 @@ Hooks.on('renderSwadeVehicleSheet', (app, html, data) => {
 		for (let i = 0; i < opSkill.length; i++) {
 			opSkill[i].text = parseSkill(opSkill[i].text);
 			opSkill[i].value = parseSkill(opSkill[i].value);
-
-			opSkill[i].selected = data.data.data.driver.skill === opSkill[i].value;
+			opSkill[i].selected = false;
+			if(data.data.data.driver.skill === opSkill[i].value) {
+				opSkill[i].selected = true;
+			}
 		}
 	}
 
