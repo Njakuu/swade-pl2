@@ -88,7 +88,6 @@ function parseName(value, translations, data, tc) {
 function parseRequirements(value, translations, data, tc){
 	let pack = game.babele.packs.find(pack => pack.translated && pack.translations[data.name]);
 	if(pack && pack !== tc) {
-		console.log(pack);
 		return pack.translateField("requirements", data);
 	}
 	return value;
