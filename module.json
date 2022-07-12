@@ -31,7 +31,7 @@
 
     "title": "SWADE Italian Translation",
     "description": "Add Italian language to SWADE system for FoundryVTT. Translates both the system and the core module, if bought and active.",
-    "author": "dsuppo",
+    "authors": [{"name":  "dsuppo"}],
     "flags": {},
     "version": "1.1.11",
     "minimumCoreVersion": "10",
