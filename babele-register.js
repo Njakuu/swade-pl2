@@ -152,7 +152,7 @@ Hooks.on('renderSwadeVehicleSheet', (app, html, data) => {
 			opSkill[i].text = parseSkill(opSkill[i].text);
 			opSkill[i].value = parseSkill(opSkill[i].value);
 			opSkill[i].selected = false;
-			if(data.data.data.driver.skill === opSkill[i].value) {
+			if(data.system.driver.skill === opSkill[i].value) {
 				opSkill[i].selected = true;
 			}
 		}
