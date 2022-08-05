@@ -54,9 +54,9 @@
     ],
     "dependencies": [
         {
-            "name": "babele",
+            "id": "babele",
             "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-            "version": "2.0.7",
+            "version": "2.2.6",
             "type": "module"
         }
     ],
