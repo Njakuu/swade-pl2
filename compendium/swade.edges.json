@@ -1,8 +1,8 @@
 {
 	"label": "Vantaggi",
     "mapping": {
-        "description": "data.description",
-        "requirements": "data.requirements"
+        "description": "system.description",
+        "requirements": "system.requirements"
     },
 	"entries": {
 		"Ace": {

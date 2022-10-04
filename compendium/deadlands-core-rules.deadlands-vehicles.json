@@ -1,12 +1,12 @@
 {
     "label": "Deadlands Veicoli",
     "mapping": {
-        "description": "data.description",
+        "description": "system.description",
         "skill":  {
-            "path": "data.driver.skill", "converter": "translateSkill"
+            "path": "system.driver.skill", "converter": "translateSkill"
         },
         "skillAlternative":  {
-            "path": "data.driver.skillAlternative", "converter": "translateSkill"
+            "path": "system.driver.skillAlternative", "converter": "translateSkill"
         },
         "cf_name": {
             "path": "flags.cf.name",

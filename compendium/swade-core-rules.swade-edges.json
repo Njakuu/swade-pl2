@@ -6,7 +6,7 @@
             "converter": "translateName"
         },
         "requirements": {
-            "path": "data.requirements",
+            "path": "system.requirements",
             "converter": "translateRequirements"
         },
         "cf_name": {

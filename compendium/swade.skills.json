@@ -1,7 +1,7 @@
 {
     "label": "Abilità",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": {
         "Psionics": {"name": "Arti Psioniche", "description": "Vedi SWADE p.36" },

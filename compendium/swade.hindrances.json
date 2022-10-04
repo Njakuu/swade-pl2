@@ -1,6 +1,6 @@
 {	"label": "Svantaggi",
     "mapping": {
-        "description": "data.description"
+        "description": "system.description"
     },
     "entries": {
         "All Thumbs": {"name": "Scarsa manualità", "description": "Vedi SWADE p.29"},
