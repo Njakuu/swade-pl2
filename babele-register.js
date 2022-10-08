@@ -163,6 +163,14 @@ function parseFields(value){
 	}
 }
 
+function parseTrapping(value, translations, data, tc) {
+	let pack = game.babele.packs.find(pack => pack.translated && pack.translations[data.name]);
+	if(pack && pack !== tc) {
+		return pack.translateField("trapping", data);
+	}
+	return value;
+}
+
 Hooks.once('init', () => {
 
 	if(typeof Babele !== 'undefined') {
@@ -178,6 +186,9 @@ Hooks.once('init', () => {
 			"translateSkill": (value) => parseSkill(value),
 			"translateName": (value, translations, data, tc) => {
 				return parseName(value, translations, data, tc)
+			},
+			"translateTrapping": (value, translations, data, tc) => {
+				return parseTrapping(value, translations, data, tc)
 			},
 			"translateDescription": (value, translations, data, tc) => {
 				return parseDescription(value, translations, data, tc)
@@ -206,7 +217,7 @@ Hooks.on('renderSwadeVehicleSheet', (app, html, data) => {
 			opSkill[i].text = parseSkill(opSkill[i].text);
 			opSkill[i].value = parseSkill(opSkill[i].value);
 			opSkill[i].selected = false;
-			if(data.system.driver.skill === opSkill[i].value) {
+			if(system.data.driver.skill === opSkill[i].value) {
 				opSkill[i].selected = true;
 			}
 		}

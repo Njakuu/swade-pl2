@@ -1,8 +1,7 @@
 {
 	"label": "Poteri",
 	"mapping": {
-		"description":  "system.description",
-		"trapping":"data.trapping",
+		"trapping":"system.trapping",
 		"cf_name": {
 			"path": "flags.cf.name",
 			"converter": "translateCfName"
