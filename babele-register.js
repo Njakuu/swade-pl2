@@ -90,7 +90,7 @@ function parseSkill(value){
 }
 
 function parseAction(value, translations, data){
-	if (isObjectEmpty(value)) {
+	if (isEmpty(value)) {
 		return value;
 	}
 	let toSearch;
