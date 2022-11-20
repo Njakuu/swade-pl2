@@ -640,7 +640,7 @@
     "DocumentLink": "Link",
     "DocumentTweaks": "Tweaks",
     "TargetVulnerable": "Target is Vulnerable",
-    "WildAttack": "Wild Attack",
+    "WildAttack": "Dziki Atak",
     "ItemType": "Item Type",
     "Source": "Source",
     "Properties": "Properties",
@@ -715,7 +715,7 @@
       "Title": "Manage Attributes for {name}",
       "Open": "Manage Attributes"
     },
-    "HeavyArmor": "Heavy Armor",
+    "HeavyArmor": "Ciężka Zbroja",
     "HeavyWeapon": "Heavy Weapon",
     "UsesTOC": "Use Compendium TOC",
     "TOCSettings": {
@@ -742,22 +742,22 @@
     "HotbarDropOwnedItemWarning": "You can only create macro buttons for owned Items"
   },
   "ACTOR": {
-    "TypeCharacter": "Player Character",
-    "TypeNpc": "NPC",
-    "TypeVehicle": "Vehicle"
+    "TypeCharacter": "Postać gracza",
+    "TypeNpc": "Postać niezależna",
+    "TypeVehicle": "Pojazd"
   },
   "ITEM": {
-    "TypeWeapon": "Weapon",
-    "TypeArmor": "Armor",
-    "TypeShield": "Shield",
-    "TypeGear": "Gear",
-    "TypeEdge": "Edge",
-    "TypeHindrance": "Hindrance",
+    "TypeWeapon": "Broń",
+    "TypeArmor": "Zbroja",
+    "TypeShield": "Tarcza",
+    "TypeGear": "Sprzęt",
+    "TypeEdge": "Przewaga",
+    "TypeHindrance": "Zawada",
     "TypeSkill": "Skill",
-    "TypePower": "Power",
+    "TypePower": "Moc",
     "TypeAbility": "Ability",
     "TypeConsumable": "Consumable",
-    "TypeAction": "Action"
+    "TypeAction": "Akcja"
   },
   "CARD": {
     "TypeAdventure": "Adventure Card",
