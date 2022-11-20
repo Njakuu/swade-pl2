@@ -63,7 +63,7 @@
         }
     ],
     "url": "https://github.com/DanieleSuppo/swade-it",
-    "manifest": "https://github.com/njakuu/swade-pl2/releases/latest/download/module.json",
-    "download": "https://github.com/njakuu/swade-pl2/releases/download/latest/module.zip",
+    "manifest": "https://github.com/Njakuu/swade-pl2/releases/download/test/module.json",
+    "download": "https://github.com/Njakuu/swade-pl2/releases/download/test/module.zip",
     "coreTranslation": false
 }
