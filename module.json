@@ -63,7 +63,7 @@
         }
     ],
     "url": "https://github.com/Njakuu/swade-pl2",
-    "manifest": "https://github.com/Njakuu/swade-pl2/releases/download/test/module.json",
-    "download": "https://github.com/Njakuu/swade-pl2/releases/download/test/module.zip",
+    "manifest": "https://github.com/Njakuu/swade-pl2/releases/download/latest/module.json",
+    "download": "https://github.com/Njakuu/swade-pl2/releases/download/latest/module.zip",
     "coreTranslation": false
 }
